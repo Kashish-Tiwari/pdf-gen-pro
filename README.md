@@ -1,7 +1,5 @@
 # PDF-Gen-Pro
-
-PDF-Gen-Pro is a simple and efficient Node.js application for converting HTML templates into PDF files.
-This project is ideal for generating invoices, statements, or any other documents that require a professional layout.
+PDF-Gen-Pro is a efficient and simple Node.js Node.js backend application designed for generating PDF files from HTML templates in real time. Whether you need to create invoices, reports, or any other dynamically generated documents, this tool offers a seamless solution for backend integration and PDF generation.
 
 # Table of Contents-
 * Features
